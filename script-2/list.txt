@@ -1,0 +1,3 @@
+total 8
+-rw-r--r--  1 carlocontardi  staff  80 19 Ott 16:08 alberi.txt
+-rw-r--r--  1 carlocontardi  staff   0 19 Ott 16:13 list.txt
