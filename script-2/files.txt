@@ -1,0 +1,11 @@
+19/10/2022
+total 136
+-rw-r--r--  1 carlocontardi  staff     80 19 Ott 16:08 alberi.txt
+-rw-r--r--  1 carlocontardi  staff    149 19 Ott 16:33 alberi_2.txt
+-rw-r--r--  1 carlocontardi  staff     81 19 Ott 16:29 alberi_ordinato.txt
+-rw-r--r--  1 carlocontardi  staff     11 19 Ott 17:06 files.txt
+-rw-r--r--  1 carlocontardi  staff    132 19 Ott 16:13 list.txt
+-rwxr-xr-x  1 carlocontardi  staff  33425 19 Ott 16:44 main
+-rw-r--r--  1 carlocontardi  staff    170 19 Ott 16:44 main.c
+-rw-r--r--  1 carlocontardi  staff    288 19 Ott 16:47 tavola_pitagorica.txt
+-rw-r--r--  1 carlocontardi  staff    139 19 Ott 16:51 utenti_collegati.txt

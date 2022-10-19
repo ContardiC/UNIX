@@ -1,0 +1,3 @@
+19/10/2022
+Login    Name                 TTY  Idle  Login  Time   Office  Phone
+carlocontardi Carlo Contardi      *con  1:19  Mer    15:32
