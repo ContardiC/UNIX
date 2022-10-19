@@ -1,0 +1,10 @@
+alberi.txt
+alberi_2.txt
+alberi_ordinato.txt
+files.txt
+list.txt
+lista_file_ordinata.txt
+main
+main.c
+tavola_pitagorica.txt
+utenti_collegati.txt
